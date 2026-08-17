@@ -1,5 +1,5 @@
 const API_BASE = import.meta.env.VITE_LLM_API_BASE || 'https://api.x.ai'
-const API_KEY = import.meta.env.VITE_LLM_API_KEY || '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'
+const API_KEY = import.meta.env.VITE_LLM_API_KEY || 'GROK_API'
 const MODEL = import.meta.env.VITE_LLM_MODEL || 'lama-3.3-70b-versatile'
 
 const isDev = import.meta.env.DEV
